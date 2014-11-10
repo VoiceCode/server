@@ -1,0 +1,24 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+coffeescript
+mizzao:bootstrap-3
+iron:router
+accounts-password
+accounts-ui
+aldeed:collection2
+dburles:collection-helpers
+stylus
+http
+matb33:collection-hooks
+hellogerard:reststop2
+joshowens:accounts-entry
+waitingkuo:jade
+aldeed:autoform
+aslagle:reactive-table
+wizonesolutions:underscore-string
+alanning:roles
+
